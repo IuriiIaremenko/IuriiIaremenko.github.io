@@ -12,7 +12,7 @@
       "coordinates": {
         "latitude": 41.88280570398516,
         "longitude": -87.6233324028711,
-        "redius_meters": 300
+        "radius_meters": 300
       }
     },
     {
@@ -25,7 +25,7 @@
       "coordinates": {
         "latitude": 41.88658459241862,
         "longitude": -87.61974528127506,
-        "redius_meters": 300
+        "radius_meters": 300
       }
     },
     {
@@ -38,7 +38,7 @@
       "coordinates": {
         "latitude": 49.60033268266995,
         "longitude": 34.54037456281774,
-        "redius_meters": 300
+        "radius_meters": 300
       }
     }
   ]
