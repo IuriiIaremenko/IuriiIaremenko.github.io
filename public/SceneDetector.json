@@ -1,0 +1,44 @@
+{
+  "ml_model_path": "https://iuriiiaremenko.github.io/public/SceneTrainingData.mlmodel",
+  "scenes": [
+    {
+      "name": "Chicago Bean",
+      "overlay": {
+        "image_path": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/263px-Wikipedia-logo-v2.svg.png",
+        "vertical_position": "top",
+        "horizontal_position": "left"
+      },
+      "coordinates": {
+        "latitude": 41.88280570398516,
+        "longitude": -87.6233324028711,
+        "redius_meters": 300
+      }
+    },
+    {
+      "name": "Aqua Tower",
+      "overlay": {
+        "image_path": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/263px-Wikipedia-logo-v2.svg.png",
+        "vertical_position": "center",
+        "horizontal_position": "center"
+      },
+      "coordinates": {
+        "latitude": 41.88658459241862,
+        "longitude": -87.61974528127506,
+        "redius_meters": 300
+      }
+    },
+    {
+      "name": "Home Lamp",
+      "overlay": {
+        "image_path": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/263px-Wikipedia-logo-v2.svg.png",
+        "vertical_position": "bottom",
+        "horizontal_position": "left"
+      },
+      "coordinates": {
+        "latitude": 49.60033268266995,
+        "longitude": 34.54037456281774,
+        "redius_meters": 300
+      }
+    }
+  ]
+}
