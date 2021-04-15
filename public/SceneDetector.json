@@ -1,5 +1,6 @@
 {
-  "ml_model_path": "https://iuriiiaremenko.github.io/public/SceneTrainingData.mlmodel",
+  "ml_model_path": "https://drive.google.com/uc?export=download&id=1_w_xhy3q2qGe4I5sZHG3ie04oo3rwOi7",
+  "ml_model_version": 1,
   "scenes": [
     {
       "name": "Chicago Bean",
